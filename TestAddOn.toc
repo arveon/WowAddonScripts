@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: NewAddOn
+## Version: 0.1
+## Notes: The best addon ever existed.
+## Authors: arveon
+## DefaultState: enabled
+
+TestAddOn.lua
